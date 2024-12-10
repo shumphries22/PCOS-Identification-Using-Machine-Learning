@@ -19,9 +19,9 @@ This project is written in BLANK. It employs back elimination to remove unnecess
 
 ## Documentation and Links
 Kaggle dataset link: [Polycystic ovary syndrome (PCOS)](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos/data) <br>
-author = {Prasoon Kottarathil}, <br>
-title = {Polycystic ovary syndrome (PCOS)}, <br>
-year = {2020}, <br>
-publisher = {kaggle}, <br>
-journal = {Kaggle Dataset}, <br>
-how published = {\url{https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Prasoon Kottarathil}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title = {Polycystic ovary syndrome (PCOS)}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher = {kaggle}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal = {Kaggle Dataset}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how published = {\url{https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}}
