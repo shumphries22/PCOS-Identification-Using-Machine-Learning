@@ -24,4 +24,4 @@ Kaggle dataset link: [Polycystic ovary syndrome (PCOS)](https://www.kaggle.com/d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2020}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher = {kaggle}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal = {Kaggle Dataset}, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how published = {\url{https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how published = {https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}
