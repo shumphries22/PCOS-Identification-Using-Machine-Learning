@@ -3,13 +3,9 @@
 This project is written in Python using Google Colab. It employs back elimination to remove unnecessary features from the dataset and then proceeds to use SVM to train the model.
 
 ## Table of Contents
-- [Features and/or Functionality](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#features-andor-functionality)
-- [Installation](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#installation)
 - [Usage](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#usage)
 - [Screenshots](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#screenshots)
 - [Documentation and Links](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#documentation-and-links)
-
-## Features and/or Functionality
 
 ## Installation
 
