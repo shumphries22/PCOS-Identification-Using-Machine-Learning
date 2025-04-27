@@ -16,13 +16,13 @@ After installation, preferably use Google Collab to execute the code. There shou
 
 ## Screenshots
 Below shows what will appear when you select the dataset. <br/>
-![image](https://github.com/user-attachments/assets/c3d6af95-0bc2-4fb6-9e2e-24e1a8faa59d)
+![image](https://github.com/user-attachments/assets/c3d6af95-0bc2-4fb6-9e2e-24e1a8faa59d)<br/>
 Below shows the output for backward elimination.<br/>
-![image](https://github.com/user-attachments/assets/4d23c6b9-e68f-49aa-8cd4-dd1d186756fc)
+![image](https://github.com/user-attachments/assets/4d23c6b9-e68f-49aa-8cd4-dd1d186756fc)<br/>
 Below shows the leftover features.<br/>
-![image](https://github.com/user-attachments/assets/0b9e7082-ca7e-40b7-a594-898cf4107c95)
+![image](https://github.com/user-attachments/assets/0b9e7082-ca7e-40b7-a594-898cf4107c95)<br/>
 Finally, here are the evaluation outputs of the model.<br/>
-![image](https://github.com/user-attachments/assets/f9aec890-2891-4433-9382-8dfe7956f3bd)
+![image](https://github.com/user-attachments/assets/f9aec890-2891-4433-9382-8dfe7956f3bd)<br/>
 
 
 
