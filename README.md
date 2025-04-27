@@ -15,13 +15,13 @@ When installing this onto your device be aware that you need both the python fil
 After installation, preferably use Google Collab to execute the code. There should be a pop-up inside the code that asks for you to select the file you want to use for the dataset. Click this and select the dataset file you have downloaded. After that, the project should be executable.
 
 ## Screenshots
-Below shows what will appear when you select the dataset.
+Below shows what will appear when you select the dataset. <br/>
 ![image](https://github.com/user-attachments/assets/c3d6af95-0bc2-4fb6-9e2e-24e1a8faa59d)
-Below shows the output for backward elimination.
+Below shows the output for backward elimination.<br/>
 ![image](https://github.com/user-attachments/assets/4d23c6b9-e68f-49aa-8cd4-dd1d186756fc)
-Below shows the leftover features.
+Below shows the leftover features.<br/>
 ![image](https://github.com/user-attachments/assets/0b9e7082-ca7e-40b7-a594-898cf4107c95)
-Finally, here are the evaluation outputs of the model.
+Finally, here are the evaluation outputs of the model.<br/>
 ![image](https://github.com/user-attachments/assets/f9aec890-2891-4433-9382-8dfe7956f3bd)
 
 
