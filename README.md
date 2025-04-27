@@ -9,10 +9,22 @@ This project is written in Python using Google Colab. It employs back eliminatio
 - [Documentation and Links](https://github.com/shumphries22/PCOS-Identification-Using-Machine-Learning/blob/main/README.md#documentation-and-links)
 
 ## Installation
+When installing this onto your device be aware that you need both the python file and the dataset. Please install both.
 
 ## Usage
+After installation, preferably use Google Collab to execute the code. There should be a pop-up inside the code that asks for you to select the file you want to use for the dataset. Click this and select the dataset file you have downloaded. After that, the project should be executable.
 
 ## Screenshots
+Below shows what will appear when you select the dataset.
+![image](https://github.com/user-attachments/assets/c3d6af95-0bc2-4fb6-9e2e-24e1a8faa59d)
+Below shows the output for backward elimination.
+![image](https://github.com/user-attachments/assets/4d23c6b9-e68f-49aa-8cd4-dd1d186756fc)
+Below shows the leftover features.
+![image](https://github.com/user-attachments/assets/0b9e7082-ca7e-40b7-a594-898cf4107c95)
+Finally, here are the evaluation outputs of the model.
+![image](https://github.com/user-attachments/assets/f9aec890-2891-4433-9382-8dfe7956f3bd)
+
+
 
 ## Documentation and Links
 Kaggle dataset link: [Polycystic ovary syndrome (PCOS)](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos/data) <br>
